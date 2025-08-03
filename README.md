@@ -19,3 +19,6 @@ Treinamento de modelos (Regressão Logística, Floresta Aleatória, Árvore de D
 Avaliação com métricas e curva ROC
 Análise da importância das variáveis
 Geração de instruções e recomendações estratégicas
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/df4b9d43-ca24-4317-a380-b4210d7483d4" />
